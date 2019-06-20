@@ -1,2 +1,2 @@
 创建一个新分支---dev
-are you ok ? hello
+are you ok ? hello Thank you /*fixed bugs*/
