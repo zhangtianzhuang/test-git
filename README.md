@@ -10,3 +10,6 @@ Git has a mutable index called stage.
 # master add conflict
 # dev1 add conflict
 # dev2 add conflict
+
+
+Nice!!!!!!!!!!!!!!!!!
