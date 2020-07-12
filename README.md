@@ -7,3 +7,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 
 # master add conflict
+# dev1 add conflict
